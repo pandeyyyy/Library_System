@@ -64,6 +64,10 @@ node src/app.js
   "bio": "Physics professor and author of Concepts of Physics volumes"
 }
 
+
+## Replace ID by actual ID while calling any request 
+### Attached pictures at the end of testing
+
 4. Get author by ID
    - GET http://localhost:3000/api/authors/:authorId
 
