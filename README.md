@@ -180,3 +180,15 @@ node src/app.js
 
 3. Return a book
    - PUT http://localhost:3000/api/borrow/:borrowId/return
+   
+
+
+
+
+    ![Screenshot (353)](https://github.com/user-attachments/assets/b9102539-5596-42d5-bfe7-ccc4e1fc8674)
+
+![Screenshot (352)](https://github.com/user-attachments/assets/7b993cdb-6f71-4b76-bd0e-96a3969f94d2)
+![Screenshot (351)](https://github.com/user-attachments/assets/06d59760-2bb7-4133-8c8e-93c673842b19)
+![Screenshot (350)](https://github.com/user-attachments/assets/8cab335e-8808-44af-90f4-5d2faf97ad60)
+![Screenshot (349)](https://github.com/user-attachments/assets/00f83245-dc4c-4a15-acfd-928b071b7687)
+![Screenshot (348)](https://github.com/user-attachments/assets/90cbf2f0-388c-42ba-8d51-c7c477284016)
