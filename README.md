@@ -18,7 +18,7 @@ node src/app.js
 ## Database Connection
 
 1. Open MongoDB Compass
-2. Connect to mongodb://localhost:27017/
+2. Connect to mongodb
   
 
 ## Testing with Thunder Client
@@ -27,6 +27,7 @@ node src/app.js
 
 1. Add authors
    - POST http://localhost:3000/api/authors
+   - Examples--
  
 {
   "name": "IE Irodov",
