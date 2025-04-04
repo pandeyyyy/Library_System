@@ -73,7 +73,7 @@ node src/app.js
 
 1. Add users
    - POST http://localhost:3000/api/users
-   - Sample payloads:
+   - Sample 
 {
   "name": "Rishabh Pandey",
   "phone": "9876543210",
@@ -167,9 +167,7 @@ node src/app.js
 5. Get book by ID
    - GET http://localhost:3000/api/books/:bookId
 
-6. Filter books by status
-   - GET http://localhost:3000/api/books?status=available
-   - GET http://localhost:3000/api/books?status=borrowed
+
 
 ### Borrow API
 
